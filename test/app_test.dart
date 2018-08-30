@@ -6,7 +6,7 @@ import 'package:angular_test/angular_test.dart';
 import 'package:test/test.dart';
 
 void main() {
-  final testBed =
+  /*final testBed =
       NgTestBed.forComponent<AppComponent>(ng.AppComponentNgFactory);
   NgTestFixture<AppComponent> fixture;
 
@@ -28,5 +28,5 @@ void main() {
   test('Greet world HTML', () {
     final html = fixture.rootElement.innerHtml;
     expect(html, '<h1>Hello Angular</h1>');
-  });
+  });*/
 }
