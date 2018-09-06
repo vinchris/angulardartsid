@@ -1,5 +1,6 @@
 import 'hero.dart';
 
+// mock data for the POC
 final mockHeroes = <Hero>[
   Hero(11, 'Mr. Nice'),
   Hero(12, 'Narco'),

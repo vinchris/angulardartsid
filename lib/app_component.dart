@@ -4,6 +4,8 @@ import 'src/hero/hero.dart';
 import 'src/hero/mock_heroes.dart';
 import 'src/hero_component/hero_component.dart';
 
+// !- Root component -! //
+
 @Component(
   selector: 'my-app',
   directives: [coreDirectives,HeroComponent],
